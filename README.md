@@ -1,5 +1,5 @@
 # About Placeholder API
-Unofficial port to neoforge
+Unofficial port to neoforge 
 
 It's a small, jij-able API that allows creation and parsing placeholders within strings and Minecraft Component Components.
 Placeholders use simple format of `%modid:type%` or `%modid:type/data%`.
